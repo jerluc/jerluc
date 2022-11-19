@@ -6,6 +6,12 @@ For work, I'm co-founder and head of engineering of climate-tech startup [Statio
 
 I'm also a big advocate of contributing back to the FOSS community as a way to "pay it back" to the same community that taught me most of what I know today about software.
 
+Some of the FOSS projects I actively maintain are:
+
+- [StationA/tilenol](https://github.com/StationA/tilenol)
+- [StationA/sscpy](https://github.com/StationA/sscpy)
+- [StationA/gke-logging](https://github.com/StationA/gke-logging)
+
 ---
 ✨ **Station A is hiring!** Click [here](https://grnh.se/45c5be814us) to see all open jobs. ✨
 
