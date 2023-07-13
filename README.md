@@ -9,11 +9,8 @@ I'm also a big advocate of contributing back to the FOSS community as a way to "
 Some of the FOSS projects I actively maintain are:
 
 - [StationA/tilenol](https://github.com/StationA/tilenol)
-- [StationA/sscpy](https://github.com/StationA/sscpy)
 - [StationA/gke-logging](https://github.com/StationA/gke-logging)
-
----
-✨ **Station A is hiring!** Click [here](https://grnh.se/45c5be814us) to see all open jobs. ✨
+- [StationA/sscpy](https://github.com/StationA/sscpy)
 
 <!--
 **jerluc/jerluc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
