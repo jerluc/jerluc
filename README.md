@@ -2,7 +2,7 @@
 ---
 I'm Jeremy (aka [jerluc](https://jerluc.com/))!
 
-For work, I'm co-founder and head of engineering of climate-tech startup [Station A](https://github.com/StationA). In my spare time, I create sounds and produce music on [SoundCloud](https://soundcloud.com/jerluc), [Spotify](https://open.spotify.com/artist/1IsWObkAGEc3dLPSFKWMTj), and [Apple Music](https://music.apple.com/us/artist/jerluc/1635186215).
+For work, I'm co-founder and head of engineering of climate-tech startup [Station A](https://github.com/StationA). In my spare time, I create sounds and produce music on [SoundCloud](https://soundcloud.com/jerluc) and post videos of my process on [YouTube](https://www.youtube.com/@jerluc).
 
 I'm also a big advocate of contributing back to the FOSS community as a way to "pay it back" to the same community that taught me most of what I know today about software.
 
